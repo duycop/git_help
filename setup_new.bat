@@ -23,7 +23,7 @@ git remote remove origin >nul 2>&1
 git remote add origin git@github.com:duycop/git_help.git
 
 REM Push lần đầu
-git push -u origin main
+git push -u origin main --force
 
 echo ================================
 echo Repo git_help đã push lên GitHub!
