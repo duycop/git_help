@@ -26,3 +26,5 @@ thư mục có thể chứa file, các thư mục con cũng ok.
    2. git commit -m "comment cho lần thay đổi này"
    3. git push
 6. Sau khi sửa đổi trực tiếp trên web, muốn kéo xuống. Gõ 1 lệnh, dễ git pull origin main
+
+thêm file pdf
