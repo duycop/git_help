@@ -26,6 +26,6 @@ REM Push lần đầu
 git push -u origin main --force
 
 echo ================================
-echo Repo git_help đã push lên GitHub!
+echo Repo git_help push OK to GitHub!
 echo ================================
 pause
