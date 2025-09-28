@@ -8,4 +8,3 @@ echo ================================
 echo Da dong bo code len GitHub!
 echo Commit message: %~1
 echo ================================
-pause
