@@ -20,5 +20,9 @@ thư mục có thể chứa file, các thư mục con cũng ok.
 	3. git commit -m "Initial commit"
 	4. git branch -M main
 	5. git push -u origin main --force
-5. Đồng bộ nội dung thay đổi trong thư mục lên github: (giống kiểu CTRL+S để save file trên word)sau khi thay đổi nội dung các file code, project,… gọi 3 lệnh git-cli để đưa lên githubgit add .git commit -m "comment cho lần thay đổi này"git push
+5. Đồng bộ nội dung thay đổi trong thư mục lên github: (giống kiểu CTRL+S để save file trên word)
+   sau khi thay đổi nội dung các file code, project,… gọi 3 lệnh git-cli để đưa lên github
+   1. git add .
+   2. git commit -m "comment cho lần thay đổi này"
+   3. git push
 6. Sau khi sửa đổi trực tiếp trên web, muốn kéo xuống. Gõ 1 lệnh, dễ git pull origin main
